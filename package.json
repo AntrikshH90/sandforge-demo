@@ -4,4 +4,4 @@
   "description": "Deliberately broken fibonacci — target repo for the SandForge agent demo",
   "license": "MIT",
   "scripts": { "test": "node --test test/" }
-}
+}
