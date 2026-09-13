@@ -1,0 +1,7 @@
+{
+  "name": "sandforge-demo",
+  "version": "1.0.0",
+  "description": "Deliberately broken fibonacci — target repo for the SandForge agent demo",
+  "license": "MIT",
+  "scripts": { "test": "node --test test/" }
+}
